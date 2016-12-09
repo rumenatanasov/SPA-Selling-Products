@@ -110,7 +110,7 @@ input[type=submit]{
     transition: all .2s ease-in-out;
 }
 
-input[type=button]:hover{
+input[type=submit]:hover{
     background: #00bbbb;
     border-color: #00bbbb;
     transform: scale(1.1);
